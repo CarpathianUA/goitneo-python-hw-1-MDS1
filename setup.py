@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='hw-1',
     version='0.1.0',
-    description='demo cli tool to remind you of birthdays',
+    description='a set of demo cli tools to remind about birthdays and to help with some routine tasks',
     packages=find_packages(),
     install_requires=[
         "faker",
